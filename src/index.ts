@@ -1,1 +1,4 @@
-console.log(1);
+import { createApp } from 'app/app';
+
+const app = createApp();
+app.listen();
